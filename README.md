@@ -1,2 +1,0 @@
-# bjc
-browser jabber client
